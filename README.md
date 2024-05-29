@@ -1,0 +1,2 @@
+# django_chinese_food
+django_chinese_food
